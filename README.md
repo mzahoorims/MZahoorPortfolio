@@ -114,6 +114,13 @@ Freelancers, families, students, and small businesses managing recurring expense
 
 ---
 
+<h2>📄 My CV</h2>
+
+📘 You can view or download my complete **CV** here:  
+➡️ [M-ZAHOOR-CV (GitHub Repository)](https://github.com/mzahoorims/M-ZAHOOR-CV)
+
+---
+
 <h2>🤳 Connect with Me</h2>
 
 [<img align="left" alt="M Zahoor | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/mzahoorims)
