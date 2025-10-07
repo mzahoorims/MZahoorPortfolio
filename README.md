@@ -5,7 +5,7 @@
 <p>
 📱 I’m a passionate <b>Flutter Developer</b> with over <b>1 year of experience</b> building fast, beautiful, and scalable mobile apps.<br/>
 🎓 Completed <b>Bachelor’s in Computer Science</b>.<br/>
-🚀 Worked on <b>12+ projects</b> across E-commerce, Chat, Finance, and Delivery platforms.<br/>
+🚀 Worked on <b>12+ projects</b> across E-commerce, Chat, Finance, and Utility platforms.<br/>
 📩 Reach me anytime at <a href="mailto:mzahoor575@gmail.com">mzahoor575@gmail.com</a> or <a href="tel:+923365884687">+92 336 5884687</a>.
 </p>
 
@@ -13,31 +13,87 @@
 
 <h2>👨‍💻 Featured Flutter Projects</h2>
 
-- <b>E-Commerce App</b>  
-  Full-featured shopping app with Stripe integration.  
-  [🔗 View Code](https://github.com/mzahoorims/ECommerceApp)
+### 1. Wealthy Heels App
+**Overview:**  
+A consultation booking app that allows users to connect with experts for personalized advice.
 
-- <b>Notes and Quiz Reminder App</b>  
-  - **Organization** – Create folders and files for subjects and notes.  
-  - **Storage** – Save text notes and images securely.  
-  - **Export** – Download notes or files in PDF format.  
-  - **Reminder** – Set alerts for quizzes, tests, or study sessions.  
-  - **Notification** – Receive timely alerts at scheduled times.  
-  - **Accessibility** – View and manage academic data anytime.  
-  - **Productivity** – Streamlined interface for effective learning management.  
-  [🔗 View Code](https://github.com/mzahoorims/StudentNoteApp)
+**Key Features:**  
+- Book consultations with experts  
+- Cancel consultations as needed  
+- Purchase books through the app  
+- Integrated PayPal payment system  
+- View consultation history for easy tracking  
 
-- <b>Travel Guide App</b>  
-  Location-based travel recommendations with Google Maps integration.  
-  [🔗 View Code](https://github.com/mzahoorims/TravelGuideApp)
+---
 
-- <b>Finance Tracker</b>  
-  Personal finance tracking app with analytics and budget charts.  
-  [🔗 View Code](https://github.com/mzahoorims/FinanceTracker)
+### 2. E-Commerce App  
+**Overview:**  
+A comprehensive e-commerce application that enables users to browse, purchase, and manage products easily.
 
-- <b>Food Delivery Platform</b>  
-  Customer and admin dashboards with real-time order tracking and Firebase backend.  
-  [🔗 View Code](https://github.com/mzahoorims/FoodDeliveryApp)
+**Key Features:**  
+- Browse and purchase a variety of products  
+- Cancel orders when needed  
+- Cart functionality for seamless checkout  
+- Secure PayPal payment integration  
+- Order history and delivery tracking details  
+
+---
+
+### 3. Travelily – Travel Guidance App  
+**Overview:**  
+A smart travel planning app providing destination insights and booking capabilities.
+
+**Key Features:**  
+- Book hotels and tickets directly through the app  
+- Discover adventure places and tourist attractions  
+- Get weather forecasts for better trip planning  
+- Access emergency information for added safety  
+
+**Technologies Used:**  
+- Google Maps API  
+- OpenWeather API  
+
+---
+
+### 4. Data Entry App  
+**Overview:**  
+A simple and efficient app for users to store, manage, and export personal or business data.
+
+**Key Features:**  
+- Enter and save user details easily  
+- Export data to Excel files  
+- Save and access Excel files from phone storage  
+
+---
+
+### 5. Beard Friend  
+**Overview:**  
+A loyalty-based salon app that rewards users with a free haircut after 10 visits.
+
+**Key Features:**  
+- Display haircut and beard style pictures  
+- Booking system to reserve appointments  
+- Option to cancel bookings  
+- Secure Stripe payment integration  
+
+---
+
+### 6. SubTracker – Subscription Management App  
+**Overview:**  
+A smart app to track, manage, and cancel all your subscriptions — helping users save money and avoid unwanted renewals.
+
+**Key Features:**  
+- Track and organize all subscriptions in one place  
+- Cancel subscriptions before renewal  
+- Smart alerts and push notifications  
+- Monthly expense analytics and budgeting dashboard  
+- Secure data protection (GDPR/DSG compliant)  
+- Multi-language support (English, German, French, Italian)  
+
+**Ideal For:**  
+Freelancers, families, students, and small businesses managing recurring expenses  
+
+**Visit:** [https://www.subtracker.io](https://www.subtracker.io)  
 
 ---
 
@@ -78,4 +134,4 @@
 
 ---
 
-⭐️ From [mzahoorims](https://github.com/mzahoorims)
+⭐️ From [mzahoorms](https://github.com/mzahoorims)
